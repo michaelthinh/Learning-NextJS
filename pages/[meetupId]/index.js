@@ -1,5 +1,5 @@
 // domain.com/[meetupId]
-import Head from "next/dist/next-server/lib/head";
+import Head from "next/head";
 
 import { MongoClient, ObjectId } from "mongodb";
 
